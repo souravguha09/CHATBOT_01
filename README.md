@@ -1,2 +1,2 @@
 # CHATBOT_01
-In this project i create a ChatBot using python .it is a basis structure to contact with a human who is depresses
+An AI-powered chatbot that interacts with users through natural language. It can answer queries, fetch information, and perform simple tasks using NLP and API integrations. Built with Python, it’s lightweight, customizable, and easy to extend for personal or business use.
