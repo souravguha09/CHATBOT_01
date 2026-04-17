@@ -1,7 +1,7 @@
 from openai import OpenAI
 
 client = OpenAI(
-  api_key="<Your Key Here>",
+  api_key="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",
 )
 
 command = '''
@@ -17,7 +17,7 @@ command = '''
 [20:31, 12/6/2024] Naruto: send me some english song also
 [20:31, 12/6/2024] Rohan Das: hold on
 [20:31, 12/6/2024] Naruto: I know what you are about to send
-[20:32, 12/6/2024] Naruto: 😂😂
+[20:32, 12/6/2024] Naruto: Hey
 [20:32, 12/6/2024] Rohan Das: https://www.youtube.com/watch?v=ar-3chBG4NU
 ye hindi English mix hai but best hai
 [20:33, 12/6/2024] Naruto: okok
