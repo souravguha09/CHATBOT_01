@@ -7,7 +7,7 @@ from openai import OpenAI
 
 
 client = OpenAI(
-  api_key="<Your Key Here>",
+  api_key="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",
 )
 
 def is_last_message_from_sender(chat_log, sender_name="Rohan Das"):
